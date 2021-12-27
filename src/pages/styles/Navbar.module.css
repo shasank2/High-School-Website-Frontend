@@ -1,0 +1,10 @@
+.nav{
+    @apply text-base font-medium border text-slate-600 min-h-[3rem]
+}
+
+.showButton{
+    @apply block md:hidden w-fit my-4 mx-5 p-1 bg-gray-400 cursor-pointer
+}
+
+
+
